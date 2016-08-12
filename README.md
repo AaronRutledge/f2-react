@@ -5,6 +5,6 @@ the F2 App_Class definition.  We use Webpack to transpile the code from ES2015 a
 
 
 ## Installation
--Install webpack as a global package: npm install webpack -g
--Install node modules: npm install
--Run: npm start
+1.  **Install webpack as a global package:** npm install webpack -g
+2.  **Install node modules:** npm install
+3.  **Run:** npm start
